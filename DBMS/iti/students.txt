@@ -1,0 +1,2 @@
+1|sameh|bash
+2|ezzat|intro to sql
